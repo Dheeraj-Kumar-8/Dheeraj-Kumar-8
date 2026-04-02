@@ -4,7 +4,7 @@ Aspiring Data Analyst | DSA Enthusiast | AWS Learner
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 * Currently learning Data Structures & Algorithms and AWS
 * Goal: Crack top product-based companies
@@ -13,14 +13,14 @@ Aspiring Data Analyst | DSA Enthusiast | AWS Learner
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Languages:** Java, C, Python
 * **Tools & Technologies:** Git, GitHub, VS Code
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dheeraj-Kumar-8)
 
