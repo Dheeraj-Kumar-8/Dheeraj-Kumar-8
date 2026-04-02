@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dheeraj Kumar
 
-Aspiring Software Developer | DSA Enthusiast | AWS Learner
+Aspiring Data Analyst | DSA Enthusiast | AWS Learner
 
 ---
 
@@ -15,18 +15,14 @@ Aspiring Software Developer | DSA Enthusiast | AWS Learner
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, C, Python
-**Tools & Technologies:** Git, GitHub, VS Code
+* **Languages:** Java, C, Python
+* **Tools & Technologies:** Git, GitHub, VS Code
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dheeraj-Kumar-8\&show_icons=true\&include_all_commits=true\&count_private=true\&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Dheeraj-Kumar-8\&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-Kumar-8\&layout=compact\&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=Dheeraj-Kumar-8)
 
 ---
 
