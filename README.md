@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Stats
 
-![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dheeraj-Kumar-8\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dheeraj-Kumar-8\&show_icons=true\&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj-Kumar-8\&theme=tokyonight)
 
@@ -62,9 +62,9 @@
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/dheeraj-kumar-dasari-105081373/
+* 🧠 LeetCode: https://leetcode.com/u/Dheeraj_8k/
 * 📧 Email: [2410030206@klh.edu.in](mailto:2410030206@klh.edu.in)
 * 📧 Alternate Email: [dheerajdasari88@gmail.com](mailto:dheerajdasari88@gmail.com)
-* 🧠 LeetCode: https://leetcode.com/u/Dheeraj_8k/
 
 ---
 
