@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dheeraj Kumar
 
-Aspiring Data Scientist | DSA Enthusiast | AWS Learner
+Aspiring Software Developer | DSA Enthusiast | AWS Learner
 
 ---
 
@@ -22,11 +22,11 @@ Aspiring Data Scientist | DSA Enthusiast | AWS Learner
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dheeraj-Kumar-8\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dheeraj-Kumar-8\&show_icons=true\&include_all_commits=true\&count_private=true\&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj-Kumar-8)
+![GitHub Streak](https://streak-stats.demolab.com?user=Dheeraj-Kumar-8\&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-Kumar-8\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-Kumar-8\&layout=compact\&cache_seconds=1800)
 
 ---
 
