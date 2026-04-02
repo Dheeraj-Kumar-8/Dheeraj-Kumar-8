@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dheeraj Kumar
 
-Aspiring Software Developer | DSA Enthusiast | AWS Learner
+Aspiring Data Scientist | DSA Enthusiast | AWS Learner
 
 ---
 
