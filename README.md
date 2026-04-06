@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dheeraj Kumar
 
-Aspiring Data Analyst | DSA Enthusiast | AWS Learner
+Aspiring Data Analyst | DSA Enthusiast | AWS CLF Certified | Intrested in Problem solving
 
 ---
 
